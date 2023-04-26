@@ -1,0 +1,9 @@
+.header-cont {
+    width: 100%;
+    height: 10vh;
+    display: flex;
+    border: 1px solid black;
+    background-color: #4cb1ca;
+    align-items: center;
+    justify-content: center;
+}
